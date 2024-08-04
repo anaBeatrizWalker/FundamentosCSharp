@@ -1,0 +1,12 @@
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp.Common\bin\Debug\net8.0\FundamentosCSharp.Common.deps.json
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp.Common\bin\Debug\net8.0\FundamentosCSharp.Common.dll
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp.Common\bin\Debug\net8.0\FundamentosCSharp.Common.pdb
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net8.0\FundamentosCSharp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net8.0\FundamentosCSharp.Common.AssemblyInfoInputs.cache
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net8.0\FundamentosCSharp.Common.AssemblyInfo.cs
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net8.0\FundamentosCSharp.Common.csproj.CoreCompileInputs.cache
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net8.0\FundamentosCSharp.Common.sourcelink.json
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net8.0\FundamentosCSharp.Common.dll
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net8.0\refint\FundamentosCSharp.Common.dll
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net8.0\FundamentosCSharp.Common.pdb
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp.Common\obj\Debug\net8.0\ref\FundamentosCSharp.Common.dll

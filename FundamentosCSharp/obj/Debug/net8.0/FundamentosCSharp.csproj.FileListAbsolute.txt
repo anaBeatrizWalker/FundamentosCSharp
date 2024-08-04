@@ -1,0 +1,47 @@
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.AssemblyInfoInputs.cache
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.AssemblyInfo.cs
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.exe
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.deps.json
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.runtimeconfig.json
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.dll
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.pdb
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.dll
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\obj\Debug\net8.0\refint\FundamentosCSharp.dll
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.pdb
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.genruntimeconfig.cache
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\obj\Debug\net8.0\ref\FundamentosCSharp.dll
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp - Copia\bin\Debug\net8.0\FundamentosCSharp.exe
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp - Copia\bin\Debug\net8.0\FundamentosCSharp.deps.json
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp - Copia\bin\Debug\net8.0\FundamentosCSharp.runtimeconfig.json
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp - Copia\bin\Debug\net8.0\FundamentosCSharp.dll
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp - Copia\bin\Debug\net8.0\FundamentosCSharp.pdb
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp - Copia\obj\Debug\net8.0\FundamentosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp - Copia\obj\Debug\net8.0\FundamentosCSharp.AssemblyInfoInputs.cache
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp - Copia\obj\Debug\net8.0\FundamentosCSharp.AssemblyInfo.cs
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp - Copia\obj\Debug\net8.0\FundamentosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp - Copia\obj\Debug\net8.0\FundamentosCSharp.dll
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp - Copia\obj\Debug\net8.0\refint\FundamentosCSharp.dll
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp - Copia\obj\Debug\net8.0\FundamentosCSharp.pdb
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp - Copia\obj\Debug\net8.0\FundamentosCSharp.genruntimeconfig.cache
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp - Copia\obj\Debug\net8.0\ref\FundamentosCSharp.dll
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.exe
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.deps.json
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.runtimeconfig.json
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.dll
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.pdb
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.Common.dll
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.Common.pdb
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.csproj.AssemblyReference.cache
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.AssemblyInfoInputs.cache
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.AssemblyInfo.cs
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.sourcelink.json
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\Fundamen.0C2BD56F.Up2Date
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.dll
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\refint\FundamentosCSharp.dll
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.pdb
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.genruntimeconfig.cache
+C:\Users\anabi\OneDrive\Documentos\DIO - Bootcamp .NET e C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\ref\FundamentosCSharp.dll
