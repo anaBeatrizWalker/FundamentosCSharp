@@ -276,3 +276,54 @@ while(showMenu)
 
 //  Console.WriteLine("The program has been terminated");
 #endregion
+
+#region Listas
+
+int[] integersArray = new int[3];
+
+integersArray[0] = 72;
+integersArray[1] = 64;
+integersArray[2] = 50;
+// integersArray[3] = 1; //Index was outside the bounds of the array
+
+
+for(int counter = 0; counter < integersArray.Length; counter++)
+{
+    // Console.WriteLine($"Position: {counter} - Value: {integersArray[counter]}");
+}
+
+int forEachCounter = 0;
+foreach(int integerNumber in integersArray)
+{
+    // Console.WriteLine($"Position: {forEachCounter} - Value: {integerNumber}");
+    forEachCounter++;
+}
+
+/*------------------------------------------*/
+
+//Cria uma cópia do array dobrando a capacidade do array
+Array.Resize(ref integersArray, integersArray.Length * 2);
+
+int[] integersArrayCopy = new int[integersArray.Length * 2];
+Array.Copy(integersArray, integersArrayCopy, integersArray.Length);
+
+/*------------------------------------------*/
+
+List<string> stringList = new List<string>();
+
+stringList.Add("São Paulo");
+stringList.Add("Bahia");
+stringList.Add("Minas Gerais");
+
+Console.WriteLine($"Items in the list: {stringList.Count} - Capacity: {stringList.Capacity}");
+
+stringList.Remove("Minas Gerais");
+
+Console.WriteLine($"Items in the list: {stringList.Count} - Capacity: {stringList.Capacity}");
+
+for(int counter = 0; counter < stringList.Count; counter++)
+{
+    Console.WriteLine($"Position: {counter} - Value: {stringList[counter]}");
+}
+
+#endregion
